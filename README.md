@@ -6,4 +6,4 @@ There are two parts to this homework.
 - Theory: Enter your solutions in `main.tex`. Your solutions should generally be concise but complete. If you need more than 10 lines to explain your solution, it is probably wrong.
 You have to complete both parts.
 
-Post in the course discussion forum in case of any confusion, queries, or errors.
+Post in the [course discussion forum](https://habibedu.facebook.com/groups/376032139504449/) in case of any confusion, queries, or errors.
