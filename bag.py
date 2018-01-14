@@ -80,15 +80,12 @@ class Bag:
         >>> bag.size()
         0
         >>> bag.add(1, 10)
-        True
         >>> bag.add(2, 20)
-        True
         >>> bag.size()
         2
         >>> bag.add(2, 30)
-        False
         >>> bag.size()
-        2
+        3
         '''
         pass
 
@@ -103,3 +100,4 @@ class Bag:
         >>> bag.keys()
         [1, 2]
         '''
+        pass
