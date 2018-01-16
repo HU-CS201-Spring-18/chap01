@@ -54,11 +54,11 @@ def test_keys():
     bag.add(1, 10)
     assert bag.keys() == [1]
     bag.add(2, 20)
-    assert bag.keys() == [1, 2]
+    assert sorted(bag.keys()) == [1, 2]
     bag.add(1, 10)
-    assert bag.keys() == [1, 2]
+    assert sorted(bag.keys()) == [1, 2]
     bag.remove(1)
-    assert bag.keys() == [1, 2]
+    assert sorted(bag.keys()) == [1, 2]
     bag.remove(2)
     assert bag.keys() == [1]
     
