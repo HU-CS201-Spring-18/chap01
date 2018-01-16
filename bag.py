@@ -97,7 +97,7 @@ class Bag:
         >>> bag.add(1, 10)
         >>> bag.add(1, 20)
         >>> bag.add(2, 20)
-        >>> bag.keys()
+        >>> sorted(bag.keys())
         [1, 2]
         '''
         pass
